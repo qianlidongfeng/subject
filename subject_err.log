@@ -1,0 +1,1 @@
+[fatal]2018/08/13 16:55:12 /var/code/go/src/github.com/qianlidongfeng/subject/subject_server.go:11: listen tcp :2580: bind: address already in use
